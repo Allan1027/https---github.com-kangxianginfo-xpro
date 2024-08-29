@@ -1,0 +1,2 @@
+class GoogleAd < ApplicationRecord
+end

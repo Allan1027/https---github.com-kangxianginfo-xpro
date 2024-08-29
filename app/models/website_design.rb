@@ -1,0 +1,2 @@
+class WebsiteDesign < ApplicationRecord
+end
